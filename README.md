@@ -1,6 +1,6 @@
 ﻿# Save The Galaxy	- shoot 'em up
 
-Getting my foot into game development field.
+Getting my foot into game development.
 Yes, I know, everything is in one file.
 
 I had a lot of fun making this game and hope to help others learn or have fun.
